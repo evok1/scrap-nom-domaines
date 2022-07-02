@@ -11,7 +11,6 @@ import urllib
 import requests
 import tldextract
 import io
-import time
 
 from bs4 import BeautifulSoup
 
